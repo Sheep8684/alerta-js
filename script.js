@@ -5,5 +5,8 @@ function calcular(){
     const subtração = document.getElementById("s2").value
     let botões = document.getElementById("b1")
 
-    
+    do(multiplicação === soma++){
+        windows.alert("Tente novamente")
+    }
+    while(multiplicação === soma++)
 }
